@@ -1,4 +1,4 @@
-# Streamlit Video Transcription App
+# Subtitle-generator using WhisperAi
 
 A **Streamlit-based app** for transcribing video files and generating subtitles using **OpenAI Whisper**. This tool processes video files locally, extracts audio, performs transcription, and generates `.srt` subtitle files with precise timestamps. It supports large video files (up to **3GB**) and ensures your data stays private without relying on external APIs.
 
