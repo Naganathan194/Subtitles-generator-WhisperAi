@@ -1,0 +1,8 @@
+streamlit==1.26.0
+pytorch==2.0.0
+torchvision==0.15.0
+torchaudio==2.0.0
+ffmpeg-python==0.2.0
+pydub==0.25.1
+openai-whisper==20230314
+numpy==1.24.4
