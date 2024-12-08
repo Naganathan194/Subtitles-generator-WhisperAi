@@ -1,4 +1,4 @@
-# Subtitle-generator using WhisperAi
+# SUBTITLE-GENERATOR USING WHISPERAI
 
 A **Streamlit-based app** for transcribing video files and generating subtitles using **OpenAI Whisper**. This tool processes video files locally, extracts audio, performs transcription, and generates `.srt` subtitle files with precise timestamps. It supports large video files (up to **3GB**) and ensures your data stays private without relying on external APIs.
 
@@ -33,5 +33,4 @@ A **Streamlit-based app** for transcribing video files and generating subtitles 
 ### Setup Steps
 1. Clone this repository:
    ```bash
-   git clone https://https://github.com/MadhanR-2004/Subtitles-generator-WhisperAi
-   cd Subtitles-generator-WhisperAi
+   git clone https://https://github.com/Naganathan194/Subtitles-generator-WhisperAi
