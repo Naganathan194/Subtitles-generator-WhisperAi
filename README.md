@@ -33,4 +33,4 @@ A **Streamlit-based app** for transcribing video files and generating subtitles 
 ### Setup Steps
 1. Clone this repository:
    ```bash
-   git clone https://https://github.com/Naganathan194/Subtitles-generator-WhisperAi
+   git clone https://github.com/Naganathan194/Subtitles-generator-WhisperAi
